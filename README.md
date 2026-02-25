@@ -111,7 +111,7 @@ With **500+ sites secured** across **15+ industries** and **1000+ happy clients*
 
 This repository contains **screenshots and documentation only** showcasing the frontend implementation. The source code is proprietary and maintained privately per client agreement.
 
-For similar projects or collaboration inquiries, please reach out via [LinkedIn](your-linkedin-url) or email.
+For similar projects or collaboration inquiries, please reach out via [LinkedIn](https://linkedin.com/in/rehanmunir343/) or email.
 
 ---
 
@@ -120,7 +120,7 @@ For similar projects or collaboration inquiries, please reach out via [LinkedIn]
 - **Live Site:** https://securitysurveillance.pk/
 - **Developer:** Rehan Munir
 - **Portfolio:** https://www.behance.net/rehanmunir2
-- **LinkedIn:**  inkedin.com/in/rehanmunir343/
+- **LinkedIn:** https://linkedin.com/in/rehanmunir343/
 
 ---
 
