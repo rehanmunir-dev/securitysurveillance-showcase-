@@ -57,24 +57,24 @@ With **500+ sites secured** across **15+ industries** and **1000+ happy clients*
 
 ## 📸 Screenshots
 
-### Hero Section
-![Hero Section](./screenshots/hero-section.png)
+### Landing Page
+![Landing Page](./screenshots/landingpage.png)
 *Impactful headline with professional security imagery*
 
-### Statistics Showcase
-![Stats Section](./screenshots/stats-section.png)
+### Project Page
+![Project Page](./screenshots/project.png)
 *Animated counters displaying company achievements*
 
-### Solutions Portfolio
-![Solutions Section](./screenshots/solutions-section.png)
+### Gallery Page
+![Gallery Page](./screenshots/gallery.png)
 *Comprehensive security offerings presentation*
 
-### Recent Projects
-![Projects Showcase](./screenshots/projects-showcase.png)
+### About Page
+![About Page](./screenshots/about.png)
 *Portfolio of nationwide security installations*
 
-### Mobile Responsive
-![Mobile View](./screenshots/mobile-responsive.png)
+### Contact Page
+![Contact](./screenshots/contact.png)
 *Optimized experience for on-the-go decision makers*
 
 ---
