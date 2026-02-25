@@ -62,19 +62,19 @@ With **500+ sites secured** across **15+ industries** and **1000+ happy clients*
 *Impactful headline with professional security imagery*
 
 ### Project Page
-![Project Page](./screenshots/project.png)
+![Project Page](project.png)
 *Animated counters displaying company achievements*
 
 ### Gallery Page
-![Gallery Page](./screenshots/gallery.png)
+![Gallery Page](gallery.png)
 *Comprehensive security offerings presentation*
 
 ### About Page
-![About Page](./screenshots/about.png)
+![About Page](about.png)
 *Portfolio of nationwide security installations*
 
 ### Contact Page
-![Contact](./screenshots/contact.png)
+![Contact](contact.png)
 *Optimized experience for on-the-go decision makers*
 
 ---
