@@ -58,11 +58,11 @@ With **500+ sites secured** across **15+ industries** and **1000+ happy clients*
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landingpage.png)
+![Landing Page](landingpage.png)
 *Impactful headline with professional security imagery*
 
 ### Project Page
-![Project Page](project.png)
+![Project Page](projects.png)
 *Animated counters displaying company achievements*
 
 ### Gallery Page
